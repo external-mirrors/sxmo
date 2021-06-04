@@ -137,7 +137,7 @@ list_dirs() {
 }
 
 list_files() {
-	cd "$1" && eval "find . -type f ! -name '.' ! -path '*/_*' $IGNORE"
+	cd "$1" && eval "find . -type f,l ! -name '.' ! -path '*/_*' $IGNORE"
 }
 
 list_dependant_files() {
