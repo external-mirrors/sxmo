@@ -1,0 +1,3 @@
+[submodule "src/sxmo-docs"]
+	path = src/sxmo-docs
+	url = git@git.sr.ht:~mil/sxmo-docs
