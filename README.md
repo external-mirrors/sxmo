@@ -9,7 +9,7 @@
 1. Run `make`
 2. The files to put on the server will be in the `dst` directory
 
-For local development, you can `cd dst`, run `python -m http.server 8000 --bind 127.0.0.1`, and navigated to http://127.0.0.1:8000/ in your web browser
+For local development, you can `make run` (requires python) and navigate to http://127.0.0.1:8000/ in your web browser
 
 ## Todo:
 
