@@ -17,3 +17,5 @@ Sxmo consists of of various tools that together form the mobile desktop environm
 * [svkbd](https://tools.suckless.org/x/svkbd/) - Simple virtual keyboard, heavily adapted by Sxmo contributors and maintained
   upstream at suckless.
 * [sxmo.org](https://git.sr.ht/~anjan/sxmo.org) - The sources for this website (AGPLv3)
+* [sxmo-userscripts](https://git.sr.ht/~anjan/sxmo-userscripts) - A contrib repository of userscripts written for Sxmo. Checkout a dmenu powered workout app, password manager, and mail app! Contribute your own userscripts!
+* [Clickclack](https://git.sr.ht/~proycon/clickclack) - Vibration/audio feedback tool to be used with virtual keyboards 
