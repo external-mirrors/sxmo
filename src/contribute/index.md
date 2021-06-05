@@ -8,4 +8,4 @@ The main way to contribute to S*x*mo is by sending *patches* to our mailing list
 * [List of all closed patches](https://lists.sr.ht/~mil/sxmo-devel/patches?search=status:closed)
 
 A patch can be sent with ``git send-email``, no need for any user registration or account. Need help?
-[https://git-send-email.io/](Learn how to use email with git!).
+[Learn how to use email with git!](https://git-send-email.io/).
