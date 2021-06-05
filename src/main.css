@@ -12,13 +12,6 @@ body {
     align-items: stretch;
 }
 
-@media (prefers-color-scheme: dark) {
-    body {
-        color: #ccc;
-        background-color: #232729;
-    }
-}
-
 .content {
     max-width: 960px;
     margin: 0 auto;
@@ -122,6 +115,12 @@ code {
     font-size: 1rem
 }
 
+header {
+    margin: 0;
+    background-color: #a7c9de;
+    padding-bottom: 12px;
+}
+
 nav {
     padding: .5rem 1rem 0;
     max-width: 960px;
@@ -132,6 +131,10 @@ nav {
 nav a:not(:first-child):not(.btn) {
     margin-left: 1rem;
     color: #666
+}
+nav a:not(:first-child):not(.btn):hover {
+    color: black;
+    background-color: #eee;
 }
 
 nav .brand {
@@ -146,11 +149,43 @@ nav .brand a {
     margin-left: 0 !important
 }
 
+nav .brand a em {
+    font-style: normal;
+    color: #04254e;
+}
+
+/* dark mode overrides */
 @media (prefers-color-scheme: dark) {
+
+    body {
+        color: #ccc;
+        background-color: #232729;
+    }
+    nav a:not(:first-child):not(.btn) {
+        color: #aaa !important;
+    }
+    nav a:not(:first-child):not(.btn):hover {
+        color: #fff !important;
+        background-color: transparent !important;
+    }
+    header {
+        background-color: transparent !important;
+    }
     nav .brand a{
         color: #fff !important;
     }
+    .content {
+        background-color: #33393b;
+        border: 1px black solid;
+    }
+    nav .brand a em {
+        font-style: normal;
+        color: #f4254e;
+    }
+
 }
+
+
 
 
 
@@ -158,13 +193,6 @@ nav .brand a {
     max-width: 960px;
     margin: 0 auto;
     padding: 0 1rem
-}
-
-@media (prefers-color-scheme: dark) {
-    .content {
-        background-color: #33393b;
-        border: 1px black solid;
-    }
 }
 
 @media(min-width:960px) {
@@ -285,13 +313,6 @@ nav .brand {
 nav .brand a {
     color: black;
 }
-
-@media (prefers-color-scheme: dark) {
-    nav .brand a {
-        color: white;
-    }
-}
-
 
 nav .brand .icon {
     width: 1.2rem
@@ -476,56 +497,6 @@ h4 {
     margin-bottom: 0
 }
 
-header {
-    margin-top: .5rem;
-    min-height: auto;
-    display: flex;
-    padding: .5rem 0;
-    flex-direction: row;
-    align-items: flex-end;
-    background: #0062cc;
-    border-width: 1px 0;
-    border-color: #001933;
-    border-style: solid
-}
-
-header .heading {
-    width: 100%
-}
-
-header h1 {
-    padding: .25rem 1rem;
-    margin: 0 -1rem .5rem;
-    background: #fff;
-    border: 1px solid rgba(0, 0, 0, .2)
-}
-
-@media(max-width:960px) {
-    header h1 {
-        margin: 0 -1rem .5rem
-    }
-}
-
-header h1 a {
-    color: #000;
-    cursor: pointer
-}
-
-header h1 a:hover {
-    color: #000
-}
-
-header h1 a small {
-    color: #0056b3
-}
-
-header.inline-header h1 {
-    font-size: 1.2rem
-}
-
-header.inline-header .info a {
-    color: #fff
-}
 
 .info {
     padding-bottom: .25rem;
