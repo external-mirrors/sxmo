@@ -190,7 +190,9 @@ nav .brand a em, h1 em, h2 em, h3 em {
     code {
         background: #111 !important;
     }
-
+    blockquote {
+        color: #999 !important;
+    }
 }
 
 
@@ -579,7 +581,8 @@ blockquote {
     margin-right: calc(-4px - 1rem);
     padding: .25rem 1rem;
     border-left: 4px solid #333;
-    background: #eee
+    background: #eee;
+    color: #666;
 }
 
 iframe {
