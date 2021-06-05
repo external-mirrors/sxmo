@@ -9,7 +9,14 @@ body {
     color: #212529;
     background-color: #fff;
     font-family: sans-serif;
-    align-items: stretch
+    align-items: stretch;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        color: #ccc;
+        background-color: #232729;
+    }
 }
 
 .content {
