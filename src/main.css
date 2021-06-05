@@ -15,7 +15,8 @@ body {
 .content {
     max-width: 960px;
     margin: 0 auto;
-    padding: 0 1rem
+    padding: 0 1rem;
+    padding-bottom: 12px;
 }
 
 @media(min-width:960px) {
@@ -38,7 +39,6 @@ body {
 
 .service-grid h3 {
     font-weight: 700;
-    color: #000
 }
 
 .service-grid blockquote {
@@ -134,7 +134,6 @@ nav a:not(:first-child):not(.btn) {
 }
 nav a:not(:first-child):not(.btn):hover {
     color: black;
-    background-color: #eee;
 }
 
 nav .brand {
@@ -149,9 +148,14 @@ nav .brand a {
     margin-left: 0 !important
 }
 
+nav a:not(:first-child):not(.btn):hover {
+    text-decoration: none;
+    border-bottom: #f4254e solid 1px;
+}
+
 nav .brand a em {
     font-style: normal;
-    color: #04254e;
+    color: #f4254e;
 }
 
 /* dark mode overrides */
@@ -180,7 +184,6 @@ nav .brand a em {
     }
     nav .brand a em {
         font-style: normal;
-        color: #f4254e;
     }
 
 }
@@ -211,11 +214,6 @@ nav .brand a em {
 
 .service-grid {
     margin-top: 2rem
-}
-
-.service-grid h3 {
-    font-weight: 700;
-    color: #000
 }
 
 .service-grid blockquote {
