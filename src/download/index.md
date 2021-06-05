@@ -5,7 +5,7 @@ distribution for phones and other mobile devices. PostmarketOS is in turn based
 on [Alpine Linux](https://alpinelinux.org).
 
 PostmarketOS offers pre-baked images which you can flash to your device.
-Please follow our [installation guide](/docs/installguide.html) for further instructions.
+Please follow our [installation guide](/docs/INSTALLGUIDE.html) for further instructions.
 
 
 
