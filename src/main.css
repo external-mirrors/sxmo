@@ -153,7 +153,7 @@ nav a:not(:first-child):not(.btn):hover {
     border-bottom: #f4254e solid 1px;
 }
 
-nav .brand a em {
+nav .brand a em, h1 em, h2 em, h3 em {
     font-style: normal;
     color: #f4254e;
 }
@@ -181,6 +181,7 @@ nav .brand a em {
     .content {
         background-color: #33393b;
         border: 1px black solid;
+        padding-bottom: 12px !important;
     }
     nav .brand a em {
         font-style: normal;
@@ -598,4 +599,20 @@ details[open] {
     padding: 0 1rem;
     margin-left: calc(-1rem - 4px);
     border-left: 4px solid #dee2e6
+}
+
+video.prominent {
+    width: 560px;
+    height: 315px;
+}
+
+div.slogan {
+    opacity: 0.7;
+    width: 80%;
+    font-size: 1.1em;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-style: italic;
+    font-weight: 200;
 }
