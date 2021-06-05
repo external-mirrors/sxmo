@@ -187,6 +187,11 @@ nav .brand a em, h1 em, h2 em, h3 em {
     nav .brand a em {
         font-style: normal;
     }
+    code {
+        background: #111;
+        font-size: 1rem;
+        color: #f4254e;
+    }
 
 }
 
