@@ -283,6 +283,15 @@ nav .brand {
 }
 
 nav .brand a {
+    color: black;
+}
+
+@media (prefers-color-scheme: dark) {
+    nav .brand a {
+        color: white;
+    }
+}
+
 
 nav .brand .icon {
     width: 1.2rem
@@ -525,6 +534,10 @@ header.inline-header .info a {
 }
 
 footer {
+    font-size: 90%;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 2rem
 }
 
