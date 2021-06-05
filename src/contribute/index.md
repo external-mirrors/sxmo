@@ -1,7 +1,7 @@
 # Contribute to S*x*mo
 
 ## Code
-The main way to contribute to S*x*mo is by sending *patches* to our mailing list at [~mil/sxmo-devel@lists.sr.ht](~mil/sxmo-devel@lists.sr.ht):
+Make code contributions to S*x*mo by sending *patches* to our mailing list at [~mil/sxmo-devel@lists.sr.ht](~mil/sxmo-devel@lists.sr.ht):
 
 * [Mailing list archive](https://lists.sr.ht/~mil/sxmo-devel)
 * [List of all patches](https://lists.sr.ht/~mil/sxmo-devel/patches)
@@ -25,8 +25,7 @@ Furthermore, they help improve upstream and maintain the mobile friendly package
 
 ## Marketing
 
-S*x*mo has a 10$ per year marketing budget which is consumed by this website's domain.
-We mostly rely on word of mouth - users blogging about their experiences, users doing talks at their local Linux conference[^1], and users showing off stuff that is only possible on a Linux mobile phone!
+To get new users, we rely on word of mouth - users blogging about their experiences, users doing talks at their local Linux conference[^1], and users showing off stuff that is only possible on a Linux mobile phone!
 
 ## Documentation
 
@@ -34,11 +33,15 @@ Help improve ``sxmo-docs`` by checking for spelling/grammatical mistakes, adding
 Users also rely on the [postmarketOS wiki](https://wiki.postmarketos.org/wiki/Main_Page) for information.
 So if you have a special use case, find fix for a device, or anything that would help other postmarketOS users, post it to the pmOS wiki!
 
+## Support Other Users
+
+Participate in our synchronous and asynchronous [support channels](/support) to help other users!
+
 ## Help Upstream
 
 We will spare you the "standing on shoulders of giants speech" but in the case of S*x*mo the giants are technical giants and not necessarily giants in size!
 You can help by sending patches to programs S*x*mo launches like [megapixels](https://sr.ht/~martijnbraam/Megapixels/), [GNOME chess](https://wiki.gnome.org/Apps/Chess), [dino](https://dino.im/), etc. 
-Or you can contribute to the distributions S*x*mo is based on: ine Linux](https://alpinelinux.org/) and [postmarketOS](http://postmarketos.org/donate/).
+Or you can contribute to the distributions S*x*mo is based on: [Alpine Linux](https://alpinelinux.org/) and [postmarketOS](http://postmarketos.org/donate/).
 Helping upstream should improve the linux desktop and linux mobile alike!
 
 
