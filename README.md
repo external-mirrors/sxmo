@@ -17,3 +17,9 @@ For local development, you can `make run` (requires python) and navigate to http
 - Add link checker for broken links
 
 See: https://w3c.github.io/developers/tools/
+
+## Special thanks
+
+https://rgz.ee/bin/ssg6
+
+Copyright 2018-2019 Roman Zolotarev <hi@romanzolotarev.com>
