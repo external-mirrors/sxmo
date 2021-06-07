@@ -169,7 +169,7 @@ nav a:not(:first-child):not(.btn):hover {
     border-bottom: #f4254e solid 1px;
 }
 
-nav .brand a em, h1 em, h2 em, h3 em {
+nav .brand a em, h1 em, h2 em, h3 em, .tagline em {
     font-style: normal;
     color: #f4254e;
 }
@@ -211,6 +211,9 @@ nav .brand a em, h1 em, h2 em, h3 em {
     }
     blockquote {
         color: #999 !important;
+    }
+    .tagline {
+        color: #bbb;
     }
 }
 
@@ -632,13 +635,17 @@ video.prominent {
     height: 315px;
 }
 
-div.slogan {
-    opacity: 0.7;
+div.tagline {
     width: 80%;
+    margin-top: -20px;
     font-size: 1.1em;
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
     font-style: italic;
     font-weight: 200;
+}
+div.tagline em {
+    font-weight: bold;
+    font-size: 120%;
 }
