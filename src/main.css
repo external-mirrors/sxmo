@@ -178,6 +178,17 @@ nav .brand a em, h1 em, h2 em, h3 em, .tagline em {
     max-width: 360px;
 }
 
+#logo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 320px;
+    height: 84px;
+    min-width: 320px;
+    min-height: 84px;
+    background-size: 320px 84px;
+    background-image: url(/img/sxmo_logo.png);
+}
+
 /* dark mode overrides */
 @media (prefers-color-scheme: dark) {
 
@@ -214,6 +225,9 @@ nav .brand a em, h1 em, h2 em, h3 em, .tagline em {
     }
     .tagline {
         color: #bbb;
+    }
+    #logo {
+        background-image: url(/img/sxmo_logo_dark.png);
     }
 }
 
@@ -649,3 +663,4 @@ div.tagline em {
     font-weight: bold;
     font-size: 120%;
 }
+
