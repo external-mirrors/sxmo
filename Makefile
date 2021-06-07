@@ -5,6 +5,7 @@ build:
 	sed 's/(https:\/\/git.sr.ht\/\~mil\/sxmo-docs\/tree\/master/(\/docs/g; s/.md)/.html)/g' -i src/docs/*.md # fix internal links in documentation
 	mkdir -p dst
 	./ssg6 src dst 'Simple X Mobile' 'https://sxmo.org'
+	cp -f srg/img/* dst/img/
 
 run: build
 	cd dst && python3 -m http.server 8000 --bind 127.0.0.1
