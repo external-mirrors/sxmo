@@ -169,7 +169,7 @@ nav a:not(:first-child):not(.btn):hover {
     border-bottom: #f4254e solid 1px;
 }
 
-nav .brand a em, h1 em, h2 em, h3 em, .tagline em {
+nav .brand a em, h1 em, h2 em, h3 em, .tagline em, em.x {
     font-style: normal;
     color: #f4254e;
 }
