@@ -186,7 +186,7 @@ nav .brand a em, h1 em, h2 em, h3 em, .tagline em, em.x {
     min-width: 320px;
     min-height: 84px;
     background-size: 320px 84px;
-    background-image: url(/img/sxmo_logo.png);
+    background-image: url(/img/sxmo_logo_with_motto.png);
 }
 
 /* dark mode overrides */
@@ -227,7 +227,7 @@ nav .brand a em, h1 em, h2 em, h3 em, .tagline em, em.x {
         color: #bbb;
     }
     #logo {
-        background-image: url(/img/sxmo_logo_dark.png);
+        background-image: url(/img/sxmo_logo_with_motto_dark.png);
     }
 }
 
