@@ -11,8 +11,9 @@ Sxmo consists of of various tools that together form the mobile desktop environm
   that powers our environment.
 * [sxmo-build](https://git.sr.ht/~mil/sxmo-build) - Build scripts to compile and install the latest
   development version of all these repositories from git.
-* [sxmo-docs](https://git.sr.ht/~mil/sxmo-docs) - All documentation, which is also
+* [sxmo-docs](https://git.sr.ht/~anjan/sxmo-docs) - All documentation, which is also
   visualised on this website.
+* [sxmo-docs (Development Version)](https://git.sr.ht/~anjan/sxmo-docs-next) - All documentation **for the latest git HEAD**
 * [lisgd](https://git.sr.ht/~mil/lisgd) - Libinput synthetic gesture deamon. Our gesture handler for the touchscreen.
 * [svkbd](https://tools.suckless.org/x/svkbd/) - Simple virtual keyboard, heavily adapted by Sxmo contributors and maintained
   upstream at suckless.
