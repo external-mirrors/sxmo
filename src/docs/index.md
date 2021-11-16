@@ -1,10 +1,10 @@
 # S*x*mo Documentation
 
 The documentation for S*x*mo is available on man.sr.ht.
-We have two versions of the documentation.
-If you dont know which sxmo version you have, you probably want sxmo-docs (the first link below):
+We have three versions of the documentation"
 
-* [sxmo-docs](https://man.sr.ht/~anjan/sxmo-docs) - All documentation for the latest stable release in Alpine's community repository.
+* [sxmo-docs-stable](https://man.sr.ht/~anjan/sxmo-docs-stable) - All documentation for the latest stable release in postmarketOS stable release.
+* [sxmo-docs](https://man.sr.ht/~anjan/sxmo-docs) - All documentation for the latest stable release in postmarketOS edge.
 * [sxmo-docs (Development Version)](https://man.sr.ht/~anjan/sxmo-docs-next) - All documentation **for the latest git master branch** installed via `sxmo-build`.
 
 If you are running postmarketOS edge, make sure you subscribe to postmarketOS edge blog for workarounds to breakages introduced by updates:
