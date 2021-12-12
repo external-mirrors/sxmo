@@ -22,3 +22,5 @@ Sxmo consists of of various tools that together form the mobile desktop environm
 * [Clickclack](https://git.sr.ht/~proycon/clickclack) - Vibration/audio feedback tool to be used with virtual keyboards 
 * [mnc](https://git.sr.ht/~anjan/mnc) - Find seconds to next cronjob
 * [mepo](https://git.sr.ht/~mil/mepo) - Fast, simple, and hackable OSM map viewer for Linux (GPL-3.0-or-later)
+* [wayout](https://git.sr.ht/~proycon/wayout) - Output simple text to a wayland desktop widget (GPLv3)
+* [wvkbd](https://github.com/jjsullivan5196/wvkbd) -  On-screen keyboard for wlroots (GPLv3)
