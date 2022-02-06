@@ -44,5 +44,18 @@ You can help by sending patches to programs S*x*mo launches like [megapixels](ht
 Or you can contribute to the distributions S*x*mo is based on: [Alpine Linux](https://alpinelinux.org/) and [postmarketOS](http://postmarketos.org/donate/).
 Helping upstream should improve the linux desktop and linux mobile alike!
 
+## Maintainers
+
+Sxmo is maintained by a group of core-contributors.
+
+**Core Contributors & Current Maintainers:**
+
+- Stacy Harper: [~stacyharper](http://sr.ht/~stacyharper), IRC: staceee
+- Maarten van Gompel: [~proycon](http://sr.ht/~proycon), IRC: proycon
+- Anajandev Momi: [~anjan](http://sr.ht/~anjan), IRC: anjan
+
+**Former Maintainers:**
+
+- Miles Alan: [~mil](http://sr.ht/~mil), IRC: mla
 
 [^1]: Here are the slides from alpineconf if you need help getting started: [https://git.sr.ht/~anjan/sxmo-alpineconf](https://git.sr.ht/~anjan/sxmo-alpineconf) 
