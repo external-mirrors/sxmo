@@ -50,9 +50,12 @@ Sxmo is maintained by a group of core-contributors.
 
 **Core Contributors & Current Maintainers:**
 
-- Stacy Harper: [~stacyharper](http://sr.ht/~stacyharper), IRC: staceee
-- Maarten van Gompel: [~proycon](http://sr.ht/~proycon), IRC: proycon
-- Anjandev Momi: [~anjan](http://sr.ht/~anjan), IRC: anjan
+In reverse-chronological order:
+
+- Peter John Hartman: [~phartman](https://sr.ht/~phartman.), IRC: wart_
+- Stacy Harper: [~stacyharper](https://sr.ht/~stacyharper), IRC: staceee
+- Maarten van Gompel: [~proycon](https://sr.ht/~proycon), IRC: proycon
+- Anjandev Momi: [~anjan](https://sr.ht/~anjan), IRC: anjan
 
 **Former Maintainers:**
 
