@@ -40,7 +40,7 @@ Participate in our synchronous and asynchronous [support channels](/support) to 
 ## Help Upstream
 
 We will spare you the "standing on shoulders of giants speech" but in the case of S*x*mo the giants are technical giants and not necessarily giants in size!
-You can help by sending patches to programs S*x*mo launches like [megapixels](https://sr.ht/~martijnbraam/Megapixels/), [GNOME chess](https://wiki.gnome.org/Apps/Chess), [dino](https://dino.im/), etc. 
+You can help by sending patches to programs S*x*mo launches like [megapixels](https://sr.ht/~martijnbraam/Megapixels/), [GNOME chess](https://wiki.gnome.org/Apps/Chess), [dino](https://dino.im/), etc.
 Or you can contribute to the distributions S*x*mo is based on: [Alpine Linux](https://alpinelinux.org/) and [postmarketOS](http://postmarketos.org/donate/).
 Helping upstream should improve the linux desktop and linux mobile alike!
 
@@ -52,10 +52,10 @@ Sxmo is maintained by a group of core-contributors.
 
 - Stacy Harper: [~stacyharper](http://sr.ht/~stacyharper), IRC: staceee
 - Maarten van Gompel: [~proycon](http://sr.ht/~proycon), IRC: proycon
-- Anajandev Momi: [~anjan](http://sr.ht/~anjan), IRC: anjan
+- Anjandev Momi: [~anjan](http://sr.ht/~anjan), IRC: anjan
 
 **Former Maintainers:**
 
 - Miles Alan: [~mil](http://sr.ht/~mil), IRC: mla
 
-[^1]: Here are the slides from alpineconf if you need help getting started: [https://git.sr.ht/~anjan/sxmo-alpineconf](https://git.sr.ht/~anjan/sxmo-alpineconf) 
+[^1]: Here are the slides from alpineconf if you need help getting started: [https://git.sr.ht/~anjan/sxmo-alpineconf](https://git.sr.ht/~anjan/sxmo-alpineconf)
