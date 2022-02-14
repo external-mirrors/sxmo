@@ -1,7 +1,7 @@
 # S*x*mo Documentation
 
 The documentation for S*x*mo is available on man.sr.ht.
-We have three versions of the documentation"
+We have three versions of the documentation:
 
 * [sxmo-docs-stable](https://man.sr.ht/~anjan/sxmo-docs-stable) - All documentation for the latest stable release in postmarketOS stable release.
 * [sxmo-docs](https://man.sr.ht/~anjan/sxmo-docs) - All documentation for the latest stable release in postmarketOS edge.
