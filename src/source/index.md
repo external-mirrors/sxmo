@@ -24,3 +24,4 @@ Sxmo consists of of various tools that together form the mobile desktop environm
 * [mepo](https://git.sr.ht/~mil/mepo) - Fast, simple, and hackable OSM map viewer for Linux (GPL-3.0-or-later)
 * [wayout](https://git.sr.ht/~proycon/wayout) - Output simple text to a wayland desktop widget (GPLv3)
 * [wvkbd](https://github.com/jjsullivan5196/wvkbd) -  On-screen keyboard for wlroots (GPLv3)
+* [sxmo-check](https://git.sr.ht/~anjan/sxmo-check) - Testsuite to run on a physical phone to test Sxmo and the phone
