@@ -20,7 +20,7 @@ This improved quality should drive others to try out Sxmo.
 ## Monetary Donations
 
 If you want to contribute monetarily, please send your donations to [postmarketOS](http://postmarketos.org/donate/).
-The postmarketOS project provides most the of the infrastructure for Sxmo such as building our images for various devices, hosting packages, etc.
+The postmarketOS project provides most of the infrastructure for Sxmo such as building our images for various devices, hosting packages, etc.
 Furthermore, they help improve upstream and maintain the mobile friendly packages that S*x*mo users depend on.
 
 ## Marketing
