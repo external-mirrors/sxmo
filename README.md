@@ -19,6 +19,12 @@ For local development, you can `make run` (requires python) and navigate to http
 
 See: https://w3c.github.io/developers/tools/
 
+## Contributing:
+
+Send patches to ~mil/sxmo-devel@lists.sr.ht
+
+Use the following subject header [PATCH sxmo.org]
+
 ## Special thanks
 
 https://rgz.ee/bin/ssg6
