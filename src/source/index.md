@@ -1,8 +1,9 @@
 # S*x*mo Source Repositories
 
-Sxmo consists of of various tools that together form the mobile desktop environment. Most of them a licensed under the MIT license:
+Sxmo consists of various tools that together form the mobile desktop environment.
+Most of the utilities are copyleft licensed unless the upstream uses a permissive license and our patches are not significant:
 
-* [sxmo-utils](https://git.sr.ht/~mil/sxmo-utils) - This repository consists various scripts and small C programs that glue the environment together and can be considered the main repository of the project.
+* [sxmo-utils](https://git.sr.ht/~mil/sxmo-utils) - This repository consists various scripts and small C programs that glue the environment together and can be considered the main repository of the project. (AGPL-3.0-only)
 * [sxmo-dwm](https://git.sr.ht/~mil/sxmo-dwm) - This is our fork of [dwm](https://dwm.suckless.org), the tiling window manager
   from [suckless](https://suckless.org) that powers our environment.
 * [sxmo-st](https://git.sr.ht/~mil/sxmo-st) - This is our fork of [st](https://st.suckless.org), our default
