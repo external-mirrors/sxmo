@@ -26,3 +26,4 @@ Most of the utilities are copyleft licensed unless the upstream uses a permissiv
 * [wayout](https://git.sr.ht/~proycon/wayout) - Output simple text to a wayland desktop widget (GPLv3)
 * [wvkbd](https://github.com/jjsullivan5196/wvkbd) -  On-screen keyboard for wlroots (GPLv3)
 * [sxmo-check](https://git.sr.ht/~anjan/sxmo-check) - Testsuite to run on a physical phone to test Sxmo and the phone
+* [Bonsai](https://sr.ht/~stacyharper/bonsai/) - Finite State Machine structured as a tree. It has been designed to trigger commands when successive events and/or a precise context is accepted. Used for multi-key support in Sway version of Sxmo.
