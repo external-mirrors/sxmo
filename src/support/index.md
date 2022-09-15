@@ -2,6 +2,7 @@
 
 We have the following support channels for questions and bug reports:
 
+* [sxmo-announce Mailing List](https://lists.sr.ht/%7Emil/sxmo-announce) - Low volume mailing list used for announcing new package version releases for the Sxmo project.
 * [sxmo-devel Mailing List](https://lists.sr.ht/%7Emil/sxmo-devel) - This is our primary asynchronous **developer** support channel where you can send your patches.
 * [sxmo-user Mailing List](https://lists.sr.ht/%7Emil/sxmo-user) - This is our primary asynchronous **user** support channel where you can send questions,
 proposals for bug reports, and proposals for feature requests. Please check if your question is not already answered before posting.
