@@ -6,9 +6,9 @@ Please read the postmarketOS wiki and the user stories on this page before buyin
 
 Currently, the best supported devices in Sxmo+postmarketOS are:
 
-- [Pine64 Pinephone](https://wiki.postmarketos.org/wiki/PINE64_PinePhone_(pine64-pinephone\))
+- [Pine64 Pinephone](https://wiki.postmarketos.org/wiki/PINE64_PinePhone_(pine64-pinephone))
   - [Sxmo Libreplanet Demo](https://framatube.org/w/dHBrnMQeEt8Mq82KxV4zKm?start=0s)
-- [poco f1](https://wiki.postmarketos.org/wiki/Xiaomi_Poco_F1_(xiaomi-beryllium\))
+- [poco f1](https://wiki.postmarketos.org/wiki/Xiaomi_Poco_F1_(xiaomi-beryllium))
   - [Sxmo on the poco f1 - Anjandev Momi](<https://momi.ca/posts/2022-04-19-sxmopocof1.html>)
 
 
@@ -23,7 +23,7 @@ To figure out what needs to be done, you need to ask: "is my device supported in
 To install the device drivers (kernel) and operating system, Sxmo relies on [postmarketOS](https://postmarketos.org).
 If you install postmarketOS+Sxmo, a device function (e.g. GPS, calling, texting, wifi, etc.) may not work because the device is missing drivers.
 Every device that boots postmarketOS has a wiki page documenting how much of the device is functional.
-For example, the wiki page for the mostly functional poco f1 is [here](https://wiki.postmarketos.org/wiki/Xiaomi_Poco_F1_(xiaomi-beryllium\)).
+For example, the wiki page for the mostly functional poco f1 is [here](https://wiki.postmarketos.org/wiki/Xiaomi_Poco_F1_(xiaomi-beryllium)).
 To see which devices support postmarketOS the best, check [the devices page on the postmarketOS wiki](https://wiki.postmarketos.org/wiki/Devices).
 Provided the device functionality is working in postmarketOS, it should work in Sxmo without needing to write kernel drivers.
 
