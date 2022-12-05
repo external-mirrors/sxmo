@@ -11,6 +11,11 @@ Currently, the best supported devices in Sxmo+postmarketOS are:
 - [poco f1](https://wiki.postmarketos.org/wiki/Xiaomi_Poco_F1_(xiaomi-beryllium))
   - [Sxmo on the poco f1 - Anjandev Momi](<https://momi.ca/posts/2022-04-19-sxmopocof1.html>)
 
+If you use Sxmo on a device not listed here, please write about your experience
+on a personal blog! If you would like your blog post mentioned here, please
+send an email to the [sxmo-user mailing
+list](https://lists.sr.ht/~mil/sxmo-user).
+
 
 ## Other Devices
 
