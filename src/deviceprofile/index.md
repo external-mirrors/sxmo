@@ -9,11 +9,12 @@ Currently, the best supported devices in Sxmo+postmarketOS are:
 - [Pine64 Pinephone](https://wiki.postmarketos.org/wiki/PINE64_PinePhone_(pine64-pinephone))
   - [Sxmo Libreplanet Demo](https://framatube.org/w/dHBrnMQeEt8Mq82KxV4zKm?start=0s)
 - [poco f1](https://wiki.postmarketos.org/wiki/Xiaomi_Poco_F1_(xiaomi-beryllium))
-  - [Sxmo on the poco f1 - Anjandev Momi](<https://momi.ca/posts/2022-04-19-sxmopocof1.html>)
+  - [Sxmo on the poco f1](https://wiki.postmarketos.org/wiki/Sxmo:_Xiaomi_Poco_F1_(xiaomi-beryllium))
 
 If you use Sxmo on a device not listed here, please write about your experience
-on a personal blog! If you would like your blog post mentioned here, please
-send an email to the [sxmo-user mailing
+on the postmarketOS wiki (similar to the Sxmo page for the
+[poco f1](https://wiki.postmarketos.org/wiki/Sxmo:_Xiaomi_Poco_F1_(xiaomi-beryllium)))!
+If you would like your wikipage mentioned here, please send an email to the [sxmo-user mailing
 list](https://lists.sr.ht/~mil/sxmo-user).
 
 
