@@ -27,4 +27,4 @@ Most of the utilities are copyleft licensed unless the upstream uses a permissiv
 * [wvkbd](https://git.sr.ht/~proycon/wvkbd/) -  On-screen keyboard for wlroots (GPLv3)
 * [sxmo-check](https://git.sr.ht/~anjan/sxmo-check) - Testsuite to run on a physical phone to test Sxmo and the phone
 * [Bonsai](https://sr.ht/~stacyharper/bonsai/) - Finite State Machine structured as a tree. It has been designed to trigger commands when successive events and/or a precise context is accepted. Used for multi-key support in Sway version of Sxmo.
-* [pnc](https://sr.ht/~anjan/pnc/) - a tool that allows command line user/programmers to operate on phone numbers (get validity information, reformat them, or extract numbers from a text snippet),
+* [pnc](https://git.sr.ht/~anjan/pnc/) - a tool that allows command line user/programmers to operate on phone numbers (get validity information, reformat them, or extract numbers from a text snippet),
