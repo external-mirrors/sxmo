@@ -14,6 +14,7 @@ Here you can also discuss the general goals of the project, your experience dail
   * Join the channel using matrix: [https://matrix.to/#/#_oftc_#sxmo:matrix.org](https://matrix.to/#/#_oftc_#sxmo:matrix.org). **Matrix keeps offline chat history even when the app/tab is closed**
   * Use an irc bouncer that keeps history even when your webclient is closed like: [chat.sr.ht](https://man.sr.ht/chat.sr.ht/).
 
-There are a number of communities working on FOSS mobile (distros, middleware, app, and hardware development). You can join the chatrooms related to FOSS mobile using the following matrix space:
+There are a number of communities working on FOSS mobile distros, middleware, app, and hardware development.
+You can join the other chatrooms related to FOSS mobile via the following matrix space:
 
 [https://matrix.to/#/#FOSSMobile:matrix.org](https://matrix.to/#/#FOSSMobile:matrix.org)
