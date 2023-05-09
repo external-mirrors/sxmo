@@ -28,3 +28,4 @@ Most of the utilities are copyleft licensed unless the upstream uses a permissiv
 * [sxmo-check](https://git.sr.ht/~anjan/sxmo-check) - Testsuite to run on a physical phone to test Sxmo and the phone
 * [Bonsai](https://sr.ht/~stacyharper/bonsai/) - Finite State Machine structured as a tree. It has been designed to trigger commands when successive events and/or a precise context is accepted. Used for multi-key support in Sway version of Sxmo.
 * [pnc](https://git.sr.ht/~anjan/pnc/) - a tool that allows command line user/programmers to operate on phone numbers (get validity information, reformat them, or extract numbers from a text snippet),
+* [sxmo-factory](https://git.sr.ht/~stacyharper/sxmo-factory) - Recipes to easily build the nightly version of Sxmo using Alpine's abuild system
