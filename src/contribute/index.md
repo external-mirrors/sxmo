@@ -17,6 +17,8 @@ The best way to contribute to Sxmo is to use it!
 By using Sxmo, you will run into issues and if you report them, document how to fix them, and send patches to the mailing list you will help improve the project for everyone.
 This improved quality should drive others to try out Sxmo.
 
+If you use Sxmo with postmarketOS, consider joining postmarketOS's [testing team](https://wiki.postmarketos.org/wiki/Testing_Team).
+
 ## Monetary Donations
 
 If you want to contribute monetarily, please send your donations to [postmarketOS](http://postmarketos.org/donate/).
