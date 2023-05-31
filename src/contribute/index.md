@@ -1,7 +1,7 @@
 # Contribute to S*x*mo
 
 ## Code
-Make code contributions to S*x*mo by sending *patches* to our mailing list at [https://lists.sr.ht/~mil/sxmo-devel](~mil/sxmo-devel):
+Make code contributions to S*x*mo by sending *patches* to our mailing list at [https://lists.sr.ht/~mil/sxmo-devel](https://lists.sr.ht/~mil/sxmo-devel):
 
 * [Mailing list archive](https://lists.sr.ht/~mil/sxmo-devel)
 * [List of all patches](https://lists.sr.ht/~mil/sxmo-devel/patches)
