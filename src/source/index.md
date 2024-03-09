@@ -10,8 +10,6 @@ Most of the utilities are copyleft licensed unless the upstream uses a permissiv
   terminal emulator from suckless.
 * [sxmo-dmenu](https://git.sr.ht/~mil/sxmo-dmenu) - Our fork of [dmenu](https://dmenu.suckless.org), the menu
   that powers our environment.
-* [sxmo-build](https://git.sr.ht/~mil/sxmo-build) - Build scripts to compile and install the latest
-  development version of all these repositories from git.
 * [sxmo-docs-stable](https://git.sr.ht/~anjan/sxmo-docs-stable) - All documentation for the latest stable release in postmarketOS stable.
 * [sxmo-docs](https://git.sr.ht/~anjan/sxmo-docs) - All documentation for the latest stable release in postmarketOS edge.
 * [sxmo-docs (Development Version)](https://git.sr.ht/~anjan/sxmo-docs-next) - All documentation **for the latest git master branch** installed via `sxmo-build`.
