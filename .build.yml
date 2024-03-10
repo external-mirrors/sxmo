@@ -1,3 +1,4 @@
+arch: x86_64
 image: alpine/edge
 packages:
   - make
