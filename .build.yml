@@ -5,13 +5,13 @@ packages:
   - lowdown
   - hut
 sources:
-  - https://git.sr.ht/~anjan/sxmo.org
+    - https://git.sr.ht/~anjan/sxmo.org
 oauth: pages.sr.ht/PAGES:RW
 tasks:
-  - build: |
-      cd sxmo.org
-      make
-      tar -C dst -cvz . > site.tar.gz
-  - deploy: |
-      [ -e "$HOME"/.config/hut/config ] || complete-build
-      hut pages publish sxmo.org/site.tar.gz -d sxmo.org
+    - build: |
+        cd sxmo.org
+        make
+        tar -C dst -cvz . > site.tar.gz
+    - deploy: |
+        [ -e "$HOME"/.config/hut/config ] || complete-build
+        hut pages publish sxmo.org/site.tar.gz -d sxmo.org
