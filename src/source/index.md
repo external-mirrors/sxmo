@@ -12,7 +12,7 @@ Most of the utilities are copyleft licensed unless the upstream uses a permissiv
   that powers our environment.
 * [sxmo-docs-stable](https://git.sr.ht/~anjan/sxmo-docs-stable) - All documentation for the latest stable release in postmarketOS stable.
 * [sxmo-docs](https://git.sr.ht/~anjan/sxmo-docs) - All documentation for the latest stable release in postmarketOS edge.
-* [sxmo-docs (Development Version)](https://git.sr.ht/~anjan/sxmo-docs-next) - All documentation **for the latest git master branch** installed via `sxmo-build`.
+* [sxmo-docs (Development Version)](https://git.sr.ht/~anjan/sxmo-docs-next) - All documentation **for the latest git master branch** installed via `sxmo-factory`.
 * [lisgd](https://git.sr.ht/~mil/lisgd) - Libinput synthetic gesture deamon. Our gesture handler for the touchscreen.
 * [svkbd](https://tools.suckless.org/x/svkbd/) - Simple virtual keyboard, heavily adapted by Sxmo contributors and maintained
   upstream at suckless.
