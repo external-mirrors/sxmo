@@ -54,6 +54,7 @@ Sxmo is maintained by a group of core-contributors.
 
 In reverse-chronological order:
 
+- Aren Moynihan: [~aren](https://sr.ht/~aren), IRC: aren
 - Peter John Hartman: [~phartman](https://sr.ht/~phartman), IRC: wart_
 - Willow Barraco: [~stacyharper](https://sr.ht/~stacyharper), IRC: staceee
 - Maarten van Gompel: [~proycon](https://sr.ht/~proycon), IRC: proycon
