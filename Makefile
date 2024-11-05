@@ -8,3 +8,7 @@ build:
 
 run: build
 	cd dst && python3 -m http.server 8000 --bind 127.0.0.1
+
+clean: 
+	rm -rf dst
+
