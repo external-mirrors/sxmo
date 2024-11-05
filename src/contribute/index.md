@@ -55,7 +55,6 @@ Sxmo is maintained by a group of core-contributors.
 In reverse-chronological order:
 
 - Aren Moynihan: [~aren](https://sr.ht/~aren), IRC: aren
-- Peter John Hartman: [~phartman](https://sr.ht/~phartman), IRC: wart_
 - Willow Barraco: [~stacyharper](https://sr.ht/~stacyharper), IRC: staceee
 - Maarten van Gompel: [~proycon](https://sr.ht/~proycon), IRC: proycon
 - Anjandev Momi: [~anjan](https://sr.ht/~anjan), IRC: anjan
@@ -63,5 +62,6 @@ In reverse-chronological order:
 **Former Maintainers:**
 
 - Miles Alan: [~mil](http://sr.ht/~mil), IRC: mla
+- Peter John Hartman: [~phartman](https://sr.ht/~phartman), IRC: wart_
 
 [^1]: Here are the slides from alpineconf if you need help getting started: [https://git.sr.ht/~anjan/sxmo-alpineconf](https://git.sr.ht/~anjan/sxmo-alpineconf)
