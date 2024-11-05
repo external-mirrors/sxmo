@@ -9,7 +9,7 @@ We have three versions of the documentation:
 
 If you are running postmarketOS edge, make sure you subscribe to postmarketOS edge blog for workarounds to breakages introduced by updates:
 
-* [http://postmarketos.org/edge/](http://postmarketos.org/edge/)
+* [http://postmarketos.org/edge/](https://postmarketos.org/edge/)
 
 Additionally, postmarketOS has a very active wiki with many articles on the administration of S*x*mo:
 
