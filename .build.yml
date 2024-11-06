@@ -4,6 +4,8 @@ packages:
   - make
   - lowdown
   - hut
+  - scdoc
+  - scd2html
 sources:
     - https://git.sr.ht/~anjan/sxmo.org
 oauth: pages.sr.ht/PAGES:RW

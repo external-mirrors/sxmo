@@ -12,6 +12,11 @@ body {
     align-items: stretch;
 }
 
+
+nav {
+    font-family: sans-serif;
+}
+
 .content {
     max-width: 960px;
     margin: 0 auto;
@@ -229,6 +234,9 @@ nav .brand a em, h1 em, h2 em, h3 em, .tagline em, em.x {
     nav .brand a em {
         font-style: normal;
     }
+    pre {
+        background: #111 !important;
+    }
     code {
         background: #111 !important;
     }
@@ -244,6 +252,20 @@ nav .brand a em, h1 em, h2 em, h3 em, .tagline em, em.x {
 
     #logo {
         background-image: url(/img/sxmo_logo_with_motto_dark.png);
+    }
+
+    blockquote {
+        background: #eee;
+        color: #666;
+    }
+
+    .man blockquote {
+        background: transparent;
+        color: #aaa !important;
+    }
+
+    a {
+        color: #4ca3ff !important;
     }
 }
 
@@ -334,7 +356,6 @@ video {
 }
 
 pre {
-    background: #eee;
     padding: .5rem;
     margin: 0 -.5rem;
     overflow-x: auto
@@ -633,8 +654,6 @@ blockquote {
     margin-right: calc(-4px - 1rem);
     padding: .25rem 1rem;
     border-left: 4px solid #333;
-    background: #eee;
-    color: #666;
 }
 
 iframe {
@@ -680,3 +699,57 @@ div.tagline em {
     font-size: 120%;
 }
 
+.man {
+    line-height: 1.3em;
+}
+.man h2 {
+    font-size: 1.3em;
+    border-bottom:  1px solid  #ff7691;
+    color: #ff7691;
+}
+.man h3 {
+    font-size: 1em;
+    border: 0px;
+    font-weight: bold;
+    margin-top: 1em;
+    color: #ff7691;
+}
+.man .header-date {
+   color: #666;
+}
+.man ol, .man ul {
+   padding-left: 1.7em;
+   margin-top: 1em;
+ }
+.man li > ol, .man li > ul {
+   margin-top: 0;
+ }
+.man blockquote {
+   margin: 1em 0 1em 1.7em;
+   padding-left: 1em;
+   background: transparent;
+   border: none;
+ }
+.man pre {
+   margin-left: 20px;
+   margin-right: 20px;
+}
+.man code {
+   font-family: FiraMono Nerd Font, Sxmo, Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+   font-size: 85%;
+   margin: 0;
+   white-space: pre-wrap;
+}
+.man p, .man ul, .man ol {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.man ul, .man ol {
+    padding-left: 40px;
+    padding-right: 20px;
+}
+.man .content header {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
