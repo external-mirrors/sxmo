@@ -6,6 +6,7 @@ packages:
   - hut
   - scdoc
   - scd2html
+  - git
 sources:
     - https://git.sr.ht/~anjan/sxmo.org
 oauth: pages.sr.ht/PAGES:RW
