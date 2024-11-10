@@ -2,7 +2,7 @@
 
 ## Requirements:
 
-- [Lowdown](https://kristaps.bsd.lv/lowdown/) or [Markdown.pl](https://daringfireball.net/projects/markdown/)
+- https://git.sr.ht/~anjan/sxmo.org/tree/main/item/.build.yml#L3
 
 ## Usage
 
