@@ -5,11 +5,11 @@ Please read the <a href="https://wiki.postmarketos.org/wiki/Devices">device page
 
 Documentation for S*x*mo comes in several parts:
 
-* [Installation Guide](install/) - This will explain how to install Sxmo on your device. It uses [postmarketOS](https://postmarketos.org) as underlying distribution.
-* [User Guide](user/sxmo.7.html) - This is the user guide or *manual* that explains how Sxmo works. It is the most comprehensive part of the documentation. On any Sxmo device, you read this offline via a simple `man sxmo` in your terminal (or by selecting **Help** in the main menu). Using the version on your device is **recommended** and will always ensure you are reading the exact version corresponding to what you have installed. This on-line version covers the latest development version.
-* [Device Guide](../deviceprofile/) - Guide for finding suitable devices .
-* [Contributor Guide](../contribute) - Guide for contributors. Explains how to submit patches.
-* [Maintainer's Guide](maintainer/) - Guide for maintainers.
+* [Installation Guide](/install/) - This will explain how to install Sxmo on your device. It uses [postmarketOS](https://postmarketos.org) as underlying distribution.
+* [User Guide](/docs/user/sxmo.7.html) - This is the user guide or *manual* that explains how Sxmo works. It is the most comprehensive part of the documentation. On any Sxmo device, you read this offline via a simple `man sxmo` in your terminal (or by selecting **Help** in the main menu). Using the version on your device is **recommended** and will always ensure you are reading the exact version corresponding to what you have installed. This on-line version covers the latest development version.
+* [Device Guide](/deviceprofile/) - Guide for finding suitable devices .
+* [Contributor Guide](/contribute) - Guide for contributors. Explains how to submit patches.
+* [Maintainer's Guide](/docs/maintainer/) - Guide for maintainers.
 
 If you are running postmarketOS edge, make sure you subscribe to their blog for workarounds to breakages introduced by updates:
 
