@@ -9,6 +9,10 @@ packages:
   - git
 sources:
     - https://git.sr.ht/~anjan/sxmo.org
+triggers:
+  - action: email
+    condition: failure
+    to: "<~mil/sxmo-devel@lists.sr.ht>"
 oauth: pages.sr.ht/PAGES:RW
 tasks:
     - build: |
