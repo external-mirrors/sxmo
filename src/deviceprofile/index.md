@@ -53,7 +53,7 @@ A mainlined device will have support for many years to come, receive security up
 Sxmo may require some configuration for a devices that are supported in
 postmarketOS but not listed in the **devices with the best Sxmo support
 section** above. Please see [our manual's section on writing a device
-profile](/docs/sxmo.7.html#DEVICES) to make Sxmo's functionality match what you
+profile](/docs/user/sxmo.7.html#DEVICES) to make Sxmo's functionality match what you
 saw on the postmarketOS wiki for your device. Please [contribute](/contribute/)
 your devices' configuration so your device can be supported in Sxmo out of the
 box. If you need help getting Sxmo to work on your device, consult the Sxmo
