@@ -6,6 +6,7 @@ Please read the <a href="https://wiki.postmarketos.org/wiki/Devices">device page
 Documentation for S*x*mo comes in several parts:
 
 * [Installation Guide](/docs/install/) - This will explain how to install Sxmo on your device. It uses [postmarketOS](https://postmarketos.org) as underlying distribution.
+* [Getting Started](/docs/gettingstarted/) - A quick getting started guide that demonstrates Sxmo's characterists and gestures
 * [User Guide](/docs/user/sxmo.7.html) - This is the user guide or *manual* that explains how Sxmo works. It is the most comprehensive part of the documentation. On any Sxmo device, you read this offline via a simple `man sxmo` in your terminal (or by selecting **Help** in the main menu). Using the version on your device is **recommended** and will always ensure you are reading the exact version corresponding to what you have installed. This on-line version covers the latest development version.
 * [Device Guide](/deviceprofile/) - Guide for finding suitable devices .
 * [Contributor Guide](/contribute) - Guide for contributors. Explains how to submit patches.
