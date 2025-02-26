@@ -15,10 +15,13 @@ triggers:
     to: "<~mil/sxmo-devel@lists.sr.ht>"
 oauth: pages.sr.ht/PAGES:RW
 tasks:
-    - build: |
-        cd sxmo.org
-        make
-        tar -C dst -cvz . > site.tar.gz
-    - deploy: |
-        [ -e "$HOME"/.config/hut/config ] || complete-build
-        hut pages publish sxmo.org/site.tar.gz -d sxmo.org
+  - check_main: |
+      cd sxmo.org
+      [ "$(git rev-parse main)" = "$(git rev-parse HEAD)" ] || complete-build
+  - build: |
+      cd sxmo.org
+      make
+      tar -C dst -cvz . > site.tar.gz
+  - deploy: |
+      [ -e "$HOME"/.config/hut/config ] || complete-build
+      hut pages publish sxmo.org/site.tar.gz -d sxmo.org
