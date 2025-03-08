@@ -18,6 +18,10 @@ We adopt the [GNU Affero General Public license v3 (AGPL)](https://www.gnu.org/l
 
 We want to empower users with maximum control over their device and the data on it. We believe the user should ultimately be the one in control. The software and your data should not be held at the mercy of corporations, governments or anybody else. Users should be free to tinker with their device and adapt it as they please. We believe this is only possible if the number of proprietary software components is reduced to an absolute minimum.
 
+We aim for our software to be useful in a variety of environments, such as desktop systems or as part of other user interfaces. We hope it will remain useful in situations we haven't imagined yet.
+
+We aim to make our software easy to customize to fit our users needs. By understanding what our software is used for, and adding options to support uses we didn't expect, we can work to minimize the overall complexity of the system. We consider the overall complexity of a program to include the amount of effort users need to put in to align it to their specific needs.
+
 We believe interoperability is an essential component of software freedom. When customizability isn't enough, it's important to be able to easily modify and/or replace a single component without disrupting the rest of the system.
 
 We oppose the attention economy where users are enticed to maximise their time on platforms for financial exploitation through targeted advertisements. We similarly oppose our user data being turned into a commodity and used as a means to manipulate our attention. We believe these are detrimental developments to society, democracy, and human psychology. Such elements will never be permitted in Sxmo.
@@ -31,10 +35,6 @@ We are pioneers and it is important that our users understand that our software,
 We are a non-profit community. If we are to ever accept donations (we currently don't), they will only be used to cover costs or to pay developers to implemented features the community wants.
 
 We oppose artificial constructs that aim to limit user/developer freedom such as software patents and [Digital Rights Management (DRM)](https://defectivebydesign.org).
-
-We aim for our software to be useful in a variety of environments, such as desktop systems or as part of other user interfaces. We hope it will remain useful in situations we haven't imagined yet.
-
-We aim to make our software easy to customize to fit our users needs. By understanding what our software is used for, and adding options to support uses we didn't expect, we can work to minimize the overall complexity of the system. We consider the overall complexity of a program to include the amount of effort users need to put in to align it to their specific needs.
 
 We believe in free speech and the right to end-to-end encrypted communication. We promise we will never implement any backdoors into any of our systems. 
 
