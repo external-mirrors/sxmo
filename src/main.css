@@ -621,12 +621,10 @@ footer .footer-links,
     text-align: center
 }
 
-footer .footer-links>*,
 .infobox .footer-links>* {
     margin-right: 2rem
 }
 
-footer .footer-links>*:last-child,
 .infobox .footer-links>*:last-child {
     margin-right: 0
 }
