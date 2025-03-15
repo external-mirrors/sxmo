@@ -12,7 +12,7 @@ sources:
 triggers:
   - action: email
     condition: failure
-    to: "<~mil/sxmo-devel@lists.sr.ht>"
+    to: "maintainers@sxmo.org"
 oauth: pages.sr.ht/PAGES:RW
 tasks:
   - check_main: |
