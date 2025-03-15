@@ -3,7 +3,7 @@
 Sxmo is notably different from mobile user interfaces you may already be
 familiar with. This does mean it has a bit of a learning curve for newcomers.
 
-Our full documentation can be found in our [manual page](/docs/user).
+Our full documentation can be found in our [manual page](/docs/user/sxmo.7.html).
 [Installation instructions](/docs/install) are provided on a separate page. On this page, however, we will help you get started quickly. 
 
 ## Key characteristics 
