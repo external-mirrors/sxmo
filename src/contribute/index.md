@@ -8,6 +8,8 @@ components, residing in various [source repositories](../source/). The most
 notable one is [sxmo-utils](https://git.sr.ht/~mil/sxmo/sxmo-utils), which
 contains the glue that connects everything together.
 
+Contributors are encouraged to take note of our [Mission Statement](/docs/missionstatement/) and [Code of Conduct](/docs/coc/).
+
 ## Code contributions
 
 Make code contributions to S*x*mo by sending *patches* to our [mailing list](https://lists.sr.ht/~mil/sxmo-devel),
