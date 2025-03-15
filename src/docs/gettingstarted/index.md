@@ -17,29 +17,29 @@ Our full documentation can be found in our [manual page](/docs/user).
 
 ## Gestures
 
-The following animations by magdesign demonstrate various gestures in Sxmo:
+The following animations by magdesign demonstrate various gestures in Sxmo. If they don't play automatically, click them:
 
-<video autoplay loop muted>
+<video autoplay loop muted onclick="this.play()">
     <source src="/img/sxmo_gesture_menu.mp4" type="video/mp4">
 </video>
 
-<video autoplay loop muted>
+<video autoplay loop muted onclick="this.play()">
     <source src="/img/sxmo_gesture_keyboard.mp4" type="video/mp4">
 </video>
 
-<video autoplay loop muted>
+<video autoplay loop muted onclick="this.play()">
     <source src="/img/sxmo_gesture_brightness.mp4" type="video/mp4">
 </video>
 
-<video autoplay loop muted>
+<video autoplay loop muted onclick="this.play()">
     <source src="/img/sxmo_gesture_rotation.mp4" type="video/mp4">
 </video>
 
-<video autoplay loop muted>
+<video autoplay loop muted onclick="this.play()">
     <source src="/img/sxmo_gesture_workspace.mp4" type="video/mp4">
 </video>
 
-<video autoplay loop muted>
+<video autoplay loop muted onclick="this.play()">
     <source src="/img/sxmo_gesture_closewindow.mp4" type="video/mp4">
 </video>
 
