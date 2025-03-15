@@ -34,7 +34,7 @@ We are pioneers and it is important that our users understand that our software,
 
 All our code is public code, our community is an interconnection of diverse people on various platforms, neither can be bought nor sold.
 
-We are a non-profit community. If we are to ever accept donations (we currently don't), they will only be used to cover costs or to pay developers to implemented features the community wants.
+We are a non-profit community. If we are to ever accept donations (we currently don't), they will be primarily used to fund development and maintenance of Sxmo, and will be made transparent to the community. 
 
 ## Other Freedoms
 
