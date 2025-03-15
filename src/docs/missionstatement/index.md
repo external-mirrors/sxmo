@@ -13,10 +13,11 @@ We embrace not just social diversity, but also technical diversity. We see other
 ## Software Freedom
 
 We are strongly committed to software freedom. We believe in the four essential freedoms as formulated by the Free Software Foundation Europe [here](https://fsfe.org/freesoftware/freesoftware.en.html#freedoms):
-    * Free Software can be used for any purpose and is free of restrictions such as licence expiry or geographic limitations. 
-    * Free Software and its code can be studied by anyone, without non‐disclosure agreements or similar restrictions.
-    * Free Software can be shared and copied at virtually no cost. 
-    * Free Software can be modified by anyone, and these improvements can be shared publicly. 
+
+* Free Software can be used for any purpose and is free of restrictions such as licence expiry or geographic limitations. 
+* Free Software and its code can be studied by anyone, without non‐disclosure agreements or similar restrictions.
+* Free Software can be shared and copied at virtually no cost. 
+* Free Software can be modified by anyone, and these improvements can be shared publicly. 
 
 We adopt the [GNU Affero General Public license v3 (AGPL)](https://www.gnu.org/licenses/agpl-3.0.html) where possible to guarantee that these freedoms can not be taken away, 
 
