@@ -11,7 +11,7 @@ Here you can also discuss the general goals of the project, your experience dail
 * [IRC Channel](irc://irc.oftc.net/#sxmo) - We have the channels ``#sxmo`` and ``#sxmo-offtopic`` on the [OFTC network](https://oftc.net). Here you can talk to Sxmo users and developers in realtime. Moreover, you can get help with Sxmo and related projects. **Please stay around for answers when asking questions**. To join:
   * Connect with your favorite IRC client.
   * Use the [web-based chat](https://webchat.oftc.net/?channels=#sxmo). **Please keep the tab open so that you retain history and are notified of responses**
-  * Join the channels using matrix: [https://matrix.to/#/#_oftc_#sxmo:matrix.org](https://matrix.to/#/#_oftc_#sxmo:matrix.org). **Matrix keeps offline chat history even when the app/tab is closed**
+  * Join the channels using matrix: [#sxmo:postmarketos.org](https://matrix.to/#/#sxmo:postmarketos.org). **Matrix keeps offline chat history even when the app/tab is closed**
   * Use an irc bouncer that keeps history even when your webclient is closed like: [chat.sr.ht](https://man.sr.ht/chat.sr.ht/).
 
 There are a number of communities working on FOSS mobile distros, middleware, app, and hardware development.
