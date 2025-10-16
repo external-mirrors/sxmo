@@ -11,7 +11,7 @@ Documentation for S*x*mo comes in several parts:
 * [Device Guide](/deviceprofile/) - Guide for finding suitable devices .
 * [Contributor Guide](/contribute) - Guide for contributors. Explains how to submit patches.
 * [Maintainer's Guide](/docs/maintainer/) - Guide for maintainers.
-* [Mission Statement](/docs/missionsstatement/) - Explains the values and philosophy behind our project and community. 
+* [Mission Statement](/docs/missionstatement/) - Explains the values and philosophy behind our project and community. 
 * [Code of Conduct](/code-of-conduct/) - Community rules and standards 
 
 If you are running postmarketOS edge, make sure you subscribe to their blog for workarounds to breakages introduced by updates:
