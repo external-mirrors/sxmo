@@ -1,5 +1,11 @@
 # Sxmo.org
 
+## Continuous Deployment
+
+This website is rebuilt nightly and deployed to https://sxmo.org by builds.sr.ht:
+
+[![builds.sr.ht status](https://builds.sr.ht/~anjan.svg?search=Daily scheduled sxmo.org build)](https://builds.sr.ht/~anjan?search=Daily+scheduled+sxmo.org+build)
+
 ## Requirements:
 
 - https://git.sr.ht/~anjan/sxmo.org/tree/main/item/.build.yml#L3
