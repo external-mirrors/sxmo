@@ -51,14 +51,14 @@ to fix them, and send patches to the mailing list you will help improve the
 project for everyone. This improved quality should drive others to try out
 S*x*mo.
 
-You can run [postmarketOS edge](https://postmarketos.org/edge/) to be on the
+You can run [nura edge](https://nura.eco/edge/) to be on the
 forefront, but the next step in testing is to run the latest development
 version of S*x*mo. You can use
 [~stacyharper/sxmo-factory](https://git.sr.ht/~stacyharper/sxmo-factory) to
-build the latest development version on PostmarketOS/Alpine Linux.
+build the latest development version on nura/Alpine Linux.
 
-If you use S*x*mo with postmarketOS, consider joining postmarketOS's [testing
-team](https://wiki.postmarketos.org/wiki/Testing_Team).
+If you use S*x*mo with nura, consider joining nura's [testing
+team](https://wiki.nura.eco/wiki/Testing_Team).
 
 ## Submitting Bugs or Feature Requests
 
@@ -73,8 +73,8 @@ patches.
 ## Monetary Donations
 
 If you want to contribute monetarily, please send your donations to
-[postmarketOS](http://postmarketos.org/donate/) instead of to us. The
-postmarketOS project provides most of the infrastructure for S*x*mo such as
+[nura](http://nura.eco/donate/) instead of to us. The
+nura project provides most of the infrastructure for S*x*mo such as
 building our images for various devices, hosting packages, etc. Furthermore,
 they help improve upstream and maintain the mobile friendly packages that
 S*x*mo users depend on.
@@ -90,10 +90,10 @@ showing off stuff that is only possible on a Linux mobile phone!
 Help improve our documentation by checking for spelling/grammatical mistakes,
 adding missing information, and updating outdated information.
 
-Users also rely on the [postmarketOS
-wiki](https://wiki.postmarketos.org/wiki/Main_Page) for information. So if you
+Users also rely on the [nura
+wiki](https://wiki.nura.eco/wiki/Main_Page) for information. So if you
 have a special use case, find fix for a device, or anything that would help
-other postmarketOS users, post it to the pmOS wiki!
+other nura users, post it to the nura wiki!
 
 ## Support Other Users
 
@@ -109,7 +109,7 @@ chess](https://wiki.gnome.org/Apps/Chess), [dino](https://dino.im/), or any
 other open source project you use on your mobile device. Or you can contribute
 to the distributions S*x*mo is based on: [Alpine
 Linux](https://alpinelinux.org/) and
-[postmarketOS](http://postmarketos.org/donate/). Helping upstream should
+[nura](http://nura.eco/donate/). Helping upstream should
 improve the linux desktop and linux mobile alike!
 
 ## Maintainers

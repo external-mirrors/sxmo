@@ -2,14 +2,14 @@
 
 Our code of conduct is based on the [Contributor Covenant
 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/),
-following the example of [postmarketOS](https://postmarketos.org/coc/) and
+following the example of [nura](https://nura.eco/coc/) and
 other FOSS projects.
 
 If you are familiar with it already, note that we have made the following changes:
 
 * Enforcement: added contact information
 * Correction -> Consequence: if user doesn't accept private messages, we make a public warning instead 
-* Attribution: Extra link to postmarketOS code of conduct.
+* Attribution: Extra link to nura code of conduct.
 
 ## Our Pledge
 
@@ -141,6 +141,6 @@ For answers to common questions about this code of conduct, see the FAQ at
 [homepage]: https://www.contributor-covenant.org
 [v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
 [Mozilla CoC]: https://github.com/mozilla/diversity
-[postmarketOS CoC]: https://postmarketos.org/coc/ 
+[nura CoC]: https://nura.eco/coc/
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations

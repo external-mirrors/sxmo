@@ -14,7 +14,7 @@ Our full documentation can be found in our [manual page](/docs/user/sxmo.7.html)
 * Sxmo uses *touch gestures* for various actions
 * Opening and closing the keyboard is a quick yet explicit user action and not automatic on input field selection
     * This is accomplished via either a gesture (swipe up or hardware buttons (volume up button)
-* Switching state (on,locked,screenoff) is done with the power button. There is no lockscreen enabled by default, if you want a lockscreen and are on wayland, simply install [peanutbutter](https://git.sr.ht/~anjan/peanutbutter) (on postmarketOS: `apk add peanutbutter`). Do make sure you read the [documentation](https://git.sr.ht/~anjan/peanutbutter) to know how it works and how to unlock it! If no lockscreen is installed, then by default you will be present with a locked state where the screen is on but touch input is disabled. Just press the hardware button again to leave that state!
+* Switching state (on,locked,screenoff) is done with the power button. There is no lockscreen enabled by default, if you want a lockscreen and are on wayland, simply install [peanutbutter](https://git.sr.ht/~anjan/peanutbutter) (on nura: `apk add peanutbutter`). Do make sure you read the [documentation](https://git.sr.ht/~anjan/peanutbutter) to know how it works and how to unlock it! If no lockscreen is installed, then by default you will be present with a locked state where the screen is on but touch input is disabled. Just press the hardware button again to leave that state!
 
 ## Gestures
 

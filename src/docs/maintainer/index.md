@@ -7,7 +7,7 @@
 1. Tag the release in git (sxmo-utils, sxmo-dwm, etc.)
 	1. Include the changelog in the tag message
 2. Send a pull request to alpine/aports to update the changed sxmo packages
-3. Send a pull request to postmarketos/pmaports to update any sxmo meta packages
+3. Send a pull request to nura/pmaports to update any sxmo meta packages
 4. Send an email to the mailing list (sxmo-announce) containing atleast the following info:
 	1. New Sxmo release will be available soon!
 	2. Description of which repos have been updated (sxmo-utils, sxmo-dwm, etc.)
@@ -15,7 +15,7 @@
 	4. An Annotated Summary of Changes - Thank the contributors
 	5. Description of breaking changes
 	6. Where to get the new images or how to update from an existing release
-	7. Any other pmos related issues (update-u-boot, updating modem firmware, etc.)
+	7. Any other nura related issues (update-u-boot, updating modem firmware, etc.)
 5. Update the sxmo.org website and trigger a new build
 
 **Notes on Package Versioning**:
@@ -36,10 +36,10 @@ of the sxmo community.
 
 **Notes on Stable Release Flow**:
 
-New releases must be in Alpine Edge for a certain amount of time for them to be accepted into postmarketOS's stable releases and service packs.
+New releases must be in Alpine Edge for a certain amount of time for them to be accepted into nura's stable releases and service packs.
 
 As such, the flow is as follows:
 
 1. Push new release to Alpine Edge (aports) unless the package is in pmaports
    only (ie. ui packages)
-2. Wait for a postmarketOS stable or service pack release. When a new release of pmOS is imminent, copy APKBUILDS from aports into pmaports.
+2. Wait for a nura stable or service pack release. When a new release of nura is imminent, copy APKBUILDS from aports into pmaports.

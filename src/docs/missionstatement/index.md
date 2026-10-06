@@ -43,7 +43,7 @@ We oppose artificial constructs that aim to limit user/developer freedom such as
 
 We believe in free speech and the right to end-to-end encrypted communication. We promise we will never implement any backdoors into any of our systems. 
 
-We want devices to be usable beyond an artificially constrained life cycle. We aim for our software to be resource efficient so that both new as well as older devices remain viable for a long time. Devices landing on a scrapheap because software updates are no longer provided is a waste of resources and has a negative impact on our environment. Similarly, the incentive to buy a new device every few years puts a strain on natural resources. In this [postmarketOS](https://postmarketos.org) is our natural ally for a more sustainable future.
+We want devices to be usable beyond an artificially constrained life cycle. We aim for our software to be resource efficient so that both new as well as older devices remain viable for a long time. Devices landing on a scrapheap because software updates are no longer provided is a waste of resources and has a negative impact on our environment. Similarly, the incentive to buy a new device every few years puts a strain on natural resources. In this [nura](https://nura.eco) is our natural ally for a more sustainable future.
 
 We oppose the attention economy where users are enticed to maximise their time on platforms for financial exploitation through targeted advertisements. We similarly oppose our user data being turned into a commodity and used as a means to manipulate our attention. We believe these are detrimental developments to society, democracy, and human psychology. Such elements will never be permitted in Sxmo.
 
